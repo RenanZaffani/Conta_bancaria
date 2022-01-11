@@ -53,4 +53,4 @@ class Account:
 
     @staticmethod
     def banks_codes():
-        return "001"
+        return {"BB":"001","Caixa":"104", "Bradesco":"237"}
